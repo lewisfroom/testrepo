@@ -9,7 +9,5 @@
   "author": "lewisfroom",
   "repository": "https://github.com/lewisfroom/testrepo",
   "license": "ISC",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "dependencies": {}
 }
